@@ -1,8 +1,11 @@
 # Jarvis-Ai-for-windows
 Next-Generation Personal AI Assistant — By FatihMakes
 A real-time voice AI that can hear, see, understand, and control your Windows computer. Local execution. Zero subscriptions(Unless you want to increase request by buying requests from Google AI Studio). Built for intelligent automation.
+
+
+
 ✨ Overview
-MARK XXX is an advanced voice-driven AI assistant designed to turn your computer into an interactive intelligent system.
+ Jarvis-windows an advanced voice-driven AI assistant designed to turn your computer into an interactive intelligent system.
 
 Speak naturally — it listens, understands context, responds with a human-like voice, and executes tasks across your system automatically.
 
